@@ -5,6 +5,7 @@
 /workspace/addbannrzzz/wz/aryt.fish
 /workspace/addbannrzzz/wz/tgpt.fish
 /workspace/addbannrzzz/wz/bun.fish
+/workspace/addbannrzzz/wz/uv.fish
 /workspace/addbannrzzz/wz/tmuxx.fish
 
 
